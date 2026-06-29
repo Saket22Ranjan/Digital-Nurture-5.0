@@ -214,7 +214,7 @@ class Ques18{
 
 
 
-public class week1_assign {
+public class week1 {
     public static void main(String[] args) {
         // Hello world
 //        Ques1 q1 =new Ques1();
