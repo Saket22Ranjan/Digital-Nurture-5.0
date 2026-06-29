@@ -1,7 +1,3 @@
-package week1;
-
-import java.lang.classfile.Interfaces;
-import java.util.InputMismatchException;
 import java.util.Scanner;
 
 class Ques1{
