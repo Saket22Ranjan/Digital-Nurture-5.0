@@ -5,6 +5,7 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/Week 2/demo/pom.xml" />
+        <option value="$PROJECT_DIR$/springbootrest/pom.xml" />
       </list>
     </option>
   </component>
